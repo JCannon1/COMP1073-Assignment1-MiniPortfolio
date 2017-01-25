@@ -16,7 +16,7 @@ FirstParagraph.textContent = myContent;
 
 var SecondParagraph = document.getElementById("SecondParagraph");
 var myHTMLContent = "<h2>About Me</h2>"
-                    + " <p></p>"
+                    + " <p></p>";
 
 SecondParagraph.innerHTML = myHTMLContent;
 
