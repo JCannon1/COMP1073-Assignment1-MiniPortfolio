@@ -1,5 +1,17 @@
-/* custom css lives here */
-
+/* change header colour to grey */
+header {
+    background-color: grey;
+}
 body {
     padding-bottom: 70px;
+    color: black;
      }
+/* change all fonts to "Garamond" */
+main {
+    font-family: "Garamond", sans-serif; 
+    color: black;
+}
+/* change footer colour to grey */
+footer {
+    background-color: grey;
+}
