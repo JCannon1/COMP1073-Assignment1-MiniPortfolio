@@ -1,6 +1,6 @@
 console.log("App Started");
 
-var firstHeadingProjects = document.getElementById("firstProjectHeading");
+var firstHeadingProjects = document.getElementById("firstHeadingProjects");
 
 console.log(firstHeadingProjects.textContent);
 
@@ -17,6 +17,5 @@ SecondProject.innerHTML = myHTMLContent;
 // create variable for "Project 3" text content 
 var ThirdProject = document.getElementById("ThirdProject");
 var myThirdContent = "This final project is my favourite piece because I feel I was successfully able to implement several unique design structures into it and it turned out just the way I wanted it to.";
-ThirdProject.textContent = myThirdProject;
-
+ThirdProject.textContent = myThirdContent;
 
