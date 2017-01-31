@@ -6,12 +6,12 @@ console.log(firstHeadingProjects.textContent);
 
 // create variable for "Project 1" text content 
 var FirstProject = document.getElementById("FirstProject");
-var myContent = "This first project is one of my favourites as it has a unique design to it and displays my ability to make lists.";
+var myContent = "This first project is one of my favourites as it has a unique design to it and displays my ability to make lists. I also like the use of the background image to add to the overall theme.";
 FirstProject.textContent = myContent;
 
 // create variable for "Project 2" text content 
 var SecondProject = document.getElementById("SecondProject");
-var myHTMLContent = "My second project also shows my ability with HTML, CSS and navigation lists. However, this project was solely designed and created by me and each page has a different style to it, but also keeps the same theme going as well.";
+var myHTMLContent = "My second project also shows my ability with HTML, CSS and navigation lists. However, this project was solely designed and created by me and each page has a different style to it. A long with doing this, I was also able to keep the same theme going on as well.";
 SecondProject.innerHTML = myHTMLContent;
 
 // create variable for "Project 3" text content 
