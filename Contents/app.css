@@ -2,9 +2,11 @@
 header {
     background-color: grey;
 }
+/* change background colour to light grey */
 body {
     padding-bottom: 70px;
     color: black;
+    background-color: lightgrey;
      }
 /* change all fonts to "Garamond" */
 main {
