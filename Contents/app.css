@@ -1,3 +1,8 @@
+/* File name: app.css */
+/* Author's name: Jesse Cannon */
+/* Web site name: http://jessecannon-miniportfolio.azurewebsites.net/index.html */
+/* File description: CSS page for my mini portfolio */
+
 /* change header colour to grey */
 header {
     background-color: grey;
@@ -26,7 +31,7 @@ label {
     margin-right: 190px;
     float: right;
 }
-/* change footer colour to grey */
+/* changed footer colour to grey */
 footer {
     background-color: grey;
 }
