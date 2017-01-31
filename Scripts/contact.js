@@ -22,7 +22,7 @@ FirstContactParagraph.textContent = myContent;
 var submitButton = document.getElementById("submitButton");
 
 // add an event listener - for the click event and call the Click function
-sumbitButton.addEventListener("click", Click);
+submitButton.addEventListener("click", Click);
 
 // click function - used as an event handler
 function Click() {
